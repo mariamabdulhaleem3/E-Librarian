@@ -1,3 +1,3 @@
 # E-Librarian
 
-Assembly course project
+The Assembly Course project
